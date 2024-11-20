@@ -10,3 +10,7 @@
 ```python
 print("Hello, World!")
 ```
+
+- [ ] Item 01
+- [ ] Item 02
+- [ ] Item 03
